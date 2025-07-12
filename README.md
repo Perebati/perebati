@@ -23,3 +23,4 @@ Java • Spring Boot • PostgreSQL • MongoDB • Neo4j • Docker • Kafka �
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pereira-blue?logo=linkedin)](https://www.linkedin.com/in/perebati/)
+[![E-mail](https://img.shields.io/badge/E-mail-lucas.bpereira1999%40gmail.com-red)](mailto:lucas.bpereira1999@gmail.com)
