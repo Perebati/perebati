@@ -13,7 +13,3 @@
 | [Rule Forge – Finance](https://github.com/Perebati/rule-forge-finance) | Financial rule engine powered by decision trees and implemented in Java. |
 | [Beyond the Codebase](https://github.com/Perebati/beyond-the-codebase) | Umbrella repo linking mini-projects for whatever I’m learning right now. |
 | [LeetCode Solutions](https://github.com/Perebati/leetcode) | Personal archive of algorithm problems in C++ & Java. |
-
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pereira-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perebati/)
-[![Email](https://img.shields.io/badge/Email-lucas.bpereira1999%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucas.bpereira1999@gmail.com)
