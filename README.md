@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Lucas 👋</h1>
+<h1 align="center">Hello, I'm Lucas 👋</h1>
 <p align="center">
-  Computer Science graduate • Software engineer & Machine-Learning enthusiast<br/>
+  Software engineer<br/>
 </p>
 
 ## Featured Projects
